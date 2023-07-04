@@ -1,1 +1,3 @@
 # Tomatoes-maturity-Classification
+
+This project developed an Android application utilizing machine learning, to classify tomato maturity based on color. A dataset with images of tomatoes at different ripening stages was used to train a Convolutional Neural Network model. The application enables users to photograph tomatoes, providing immediate feedback on the maturity stage. With high accuracy in maturity classification, this application has the potential to improve agricultural efficiency and consumer experiences, suggesting a promising future for machine learning applications in agriculture. 
